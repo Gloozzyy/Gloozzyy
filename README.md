@@ -12,7 +12,6 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gloozzyy&theme=radical)](https://github.com/gloozzyy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gloozzyy&show_icons=true&theme=rose_pine">
 <img src="https://komarev.com/ghpvc/?username=Gloozzyy&color=191724">
 
 <!---
