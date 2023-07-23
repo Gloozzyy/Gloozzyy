@@ -12,8 +12,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gloozzyy&theme=radical)](https://github.com/gloozzyy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=UnfairRoblox91&show_icons=true&theme=rose_pine">
-<img src="https://komarev.com/ghpvc/?username=UnfairRoblox91&color=191724">
+<img src="https://github-readme-stats.vercel.app/api?username=Gloozzyy&show_icons=true&theme=rose_pine">
+<img src="https://komarev.com/ghpvc/?username=Gloozzyy&color=191724">
 
 <!---
 gloozzyy/gloozzyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
