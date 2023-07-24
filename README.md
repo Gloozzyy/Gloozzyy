@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gloozzyy
-- 👀 I’m interested in hacking, VR, technology, gaming and programing
-- 🌱 I’m currently learning .NET Framework and robloxlua development
+- 👀 I’m interested in Minecraft Servers, VR, Technology, Gaming & Programing
+- 🌱 I’m currently working in Skript, JS & Web Development
 - 
 <h3 align="left">Languages I know:</h3>
 <p align="left">
